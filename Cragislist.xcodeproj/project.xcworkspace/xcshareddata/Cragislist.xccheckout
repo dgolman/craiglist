@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4E03DB44-1561-4294-BE1A-CC61A4310B59</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Cragislist</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5C880BE1B99588B39156D68833EAB2407BF6A594</key>
+		<string>https://github.com/dgolman/craiglist.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Cragislist.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5C880BE1B99588B39156D68833EAB2407BF6A594</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dgolman/craiglist.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5C880BE1B99588B39156D68833EAB2407BF6A594</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5C880BE1B99588B39156D68833EAB2407BF6A594</string>
+			<key>IDESourceControlWCCName</key>
+			<string>craigslist</string>
+		</dict>
+	</array>
+</dict>
+</plist>
